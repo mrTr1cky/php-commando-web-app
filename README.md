@@ -1,6 +1,6 @@
 # PHP Commando Web App
 
-![PHP Commando Web App](screenshots/commando.png)
+![PHP Commando Web App](php.png)
 
 A powerful, terminal-like command-line interface (CLI) built with PHP, designed to run Linux-like commands in a web browser. Created by KHAYROL ISLAM (@DevidLuice), this app offers a sleek, dark-themed UI with over 60 commands, piping support, JSON output formatting, and a responsive design. Perfect for developers, hobbyists, or anyone wanting to experiment with CLI commands in a safe, web-based environment.
 
