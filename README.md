@@ -150,12 +150,11 @@ Contributions are welcome! To contribute:
 
 Please include tests and follow the coding style in `commando.php`. For issues or feature requests, open an issue on GitHub.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
 
 ## Contact
 Created by KHAYROL ISLAM (@DevidLuice). Reach out via:
 - GitHub: [mrTr1cky](https://github.com/mrTr1cky)
-- Email: (Add your contact email if desired)
+- Email: (khayrolislam@hotmail.com)
 
 Star the repository if you find it useful! 🌟
